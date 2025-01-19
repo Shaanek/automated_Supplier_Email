@@ -185,6 +185,10 @@ This bot automates the tedious task of sending open PO reports to suppliers. By 
 
 MIT License. See LICENSE file for details.
 
+## **Contact**
+
+For any questions or support, please contact [srekatpure@gmail.com].
+
 ```
 
 You can add more details like configuration options, setup instructions, and more based on your exact use case!
