@@ -1,4 +1,4 @@
-# automated_Supplier_Email
+# Automated_Supplier_Email Python BOT for Supply Chain Digitization
 The code presented automates the process of sending open Purchase Order (PO) reports to suppliers via email. This is particularly useful in the supply chain industry where companies often have multiple suppliers and need to ensure timely communication. 
 Here’s a sample GitHub README file for the described project:
 
