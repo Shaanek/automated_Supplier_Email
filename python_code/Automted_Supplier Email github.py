@@ -113,7 +113,7 @@ for index, row in df_supp_email.iterrows():
         """
         
         # Attach supplier-specific PO report
-        direct = 'C:/Users/sekatpure/Documents/Python Projects/Auto Email Bot/'
+        direct = 'F:\File_location'
         Sheetname = 'Open_PO_' + row['Supplier Name'] + '.xlsx'
         attachment = direct + Sheetname
         mail.Attachments.Add(attachment)
