@@ -158,7 +158,7 @@ for index, row in df_supp_email.iterrows():
         <em>Purchase commitments are made by Your Company Name only pursuant to written purchase orders.</em></p>
         """
         
-        attachment = 'C:/Users/sekatpure/Documents/Python Projects/Auto Email Bot/' + 'Open_PO_' + row['Supplier Name'] + '.xlsx'
+        attachment = 'F:\File_location/' + 'Open_PO_' + row['Supplier Name'] + '.xlsx'
         mail.Attachments.Add(attachment)
         
         mail.Send()
